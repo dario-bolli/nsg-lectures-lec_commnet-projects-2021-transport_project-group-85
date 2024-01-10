@@ -1,4 +1,5 @@
-# Reliable Transport project in the context of the [communication and networks lecture](https://comm-net.ethz.ch/2021/) at ETHZ
+# Reliable Communication project in the context of the [communication networks lecture](https://comm-net.ethz.ch/2021/) at ETHZ
+
 ## Reliable Transport Project - Group 85
 
 This is your group repository. It contains the credentials to access your VM. You will also use this repository to submit your work---both the code and the report---at the end of the project.
